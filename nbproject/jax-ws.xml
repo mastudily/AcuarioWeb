@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="AuditoriaWS">
+      <implementation-class>acuario.services.AuditoriaWS</implementation-class>
+    </service>
+    <service name="ClienteWS">
+      <implementation-class>acuario.services.ClienteWS</implementation-class>
+    </service>
+    <service name="ConstanteWS">
+      <implementation-class>acuario.services.ConstanteWS</implementation-class>
+    </service>
+    <service name="EmpresaWS">
+      <implementation-class>acuario.services.EmpresaWS</implementation-class>
+    </service>
+    <service name="InsumoWS">
+      <implementation-class>acuario.services.InsumoWS</implementation-class>
+    </service>
+    <service name="InsumoempresaWS">
+      <implementation-class>acuario.services.InsumoempresaWS</implementation-class>
+    </service>
+    <service name="KardexWS">
+      <implementation-class>acuario.services.KardexWS</implementation-class>
+    </service>
+    <service name="PerfilWS">
+      <implementation-class>acuario.services.PerfilWS</implementation-class>
+    </service>
+    <service name="PersonaWS">
+      <implementation-class>acuario.services.PersonaWS</implementation-class>
+    </service>
+    <service name="ProgramaWS">
+      <implementation-class>acuario.services.ProgramaWS</implementation-class>
+    </service>
+    <service name="ProgramaperfilWS">
+      <implementation-class>acuario.services.ProgramaperfilWS</implementation-class>
+    </service>
+    <service name="UsuarioWS">
+      <implementation-class>acuario.services.UsuarioWS</implementation-class>
+    </service>
+    <service name="IngresoWS">
+      <implementation-class>acuario.services.IngresoWS</implementation-class>
+    </service>
+    <service name="SolicitudinsumoWS">
+      <implementation-class>acuario.services.SolicitudinsumoWS</implementation-class>
+    </service>
+    <service name="FormapagoWS">
+      <implementation-class>acuario.services.FormapagoWS</implementation-class>
+    </service>
+    <service name="CuentacontableWS">
+      <implementation-class>acuario.services.CuentacontableWS</implementation-class>
+    </service>
+    <service name="DiarioWS">
+      <implementation-class>acuario.services.DiarioWS</implementation-class>
+    </service>
+    <service name="DiariodetalleWS">
+      <implementation-class>acuario.services.DiariodetalleWS</implementation-class>
+    </service>
+    <service name="IngresoforpagWS">
+      <implementation-class>acuario.services.IngresoforpagWS</implementation-class>
+    </service>
+  </services>
+  <clients/>
+</jax-ws>
